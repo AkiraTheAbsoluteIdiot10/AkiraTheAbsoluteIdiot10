@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AkiraTheAbsoluteIdiot10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Mirichi AKimiru
+- 👀 I'm bestfriends with Keiko Nanichi
+- 🌱 I’m currently learning stuff
+- 💞️ I’m looking to collaborate on nowhere
+- 📫 I'm in earth
+- 
 
 <!---
 AkiraTheAbsoluteIdiot10/AkiraTheAbsoluteIdiot10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
